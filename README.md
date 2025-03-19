@@ -91,4 +91,5 @@ Clients can send messages, which will be broadcasted to all connected users.
 The chat continues until the clients disconnect.
 
 # OUTPUTS
-https://github.com/user-attachments/assets/57d91360-8cb1-4a5c-a1ca-85831fb581a1
+
+![Image](https://github.com/user-attachments/assets/57d91360-8cb1-4a5c-a1ca-85831fb581a1)
